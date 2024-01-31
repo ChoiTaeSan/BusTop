@@ -14,7 +14,7 @@ public class BackendApplication {
         double A = scanner.nextInt();
         double B = scanner.nextInt();
 
-        double sum = A / B;
+        double sum = A * B;
 
         System.out.println(sum);
     }
